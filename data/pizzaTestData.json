@@ -1,0 +1,6 @@
+{
+  "pizzaSizes": ["small", "medium", "large"],
+  "pizzaFlavors": ["Cheese", "Pepperoni", "Supreme", "Veggie Delight"],
+  "sauces": ["marinara", "buffalo", "barbeque"],
+  "toppings": ["onions", "green olive", "tomatoes"]
+}
