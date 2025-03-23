@@ -77,6 +77,8 @@ npx playwright show-report
 - Test cases are located inside the `tests` folder.
 - Page object files are inside the `pages` folder.
 - Fixtures are located in the `setup` folder.
+- Helper scripts are located in the `utils` folder.
+- Test data is located in the `data` folder.
 
 ### Example Test (Using Fixtures and POM)
 
